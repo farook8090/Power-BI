@@ -1,4 +1,4 @@
-# Power BI Projects ![Power BI Banner](icons8-power-bi-logo-96.png)
+# Power BI Projects ![Power BI Banner](icons8-power-bi-logo-48.png)
 
 Welcome to the Power BI Projects repository! This repository showcases various projects that utilize Power BI to analyze and visualize data in insightful ways.
 
