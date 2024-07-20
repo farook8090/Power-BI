@@ -8,7 +8,7 @@ Welcome to the Power BI Projects repository! This repository showcases various p
 
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [Project 1: Sales Analytics Dashboard](#project-1-sales-analysis)
+  - [Project 1: Sales Analytics Dashboard](#project-1-sales-analytics-dashboard)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -32,4 +32,4 @@ This repository contains a collection of Power BI projects that demonstrate vari
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/power-bi-projects.git
+   git clone https://github.com/farook8090/power-bi-projects.git
