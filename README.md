@@ -26,7 +26,7 @@ This repository contains a collection of Power BI projects that demonstrate vari
 - **Description**: This project provides comprehensive analytics of sales data, including key performance indicators (KPIs), sales trends, and product performance.
 - **Data**: Sales data from 2023 to 2024.
 - **Features**: Interactive dashboards, drill-down capabilities, and custom visuals.
-  ![Sales Analytics Dashboard](sales analytics dashboard.png)
+  ![Sales Analytics Dashboard](sales-analytics-dashboard.png)
   
 ## Installation
 
